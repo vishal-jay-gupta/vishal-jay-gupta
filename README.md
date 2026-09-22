@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/galaxy-hero.svg" width="100%" alt="Rishu Sharma — Code Galaxy Explorer" />
+<img src="assets/generated/profile.svg" width="100%" alt="Vishal Jay Gupta" />
 
 <br/>
 
